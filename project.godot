@@ -10,9 +10,11 @@ config_version=5
 
 [application]
 
-config/name="Com Project"
+config/name="GEM"
 config/features=PackedStringArray("4.1", "Mobile")
 config/icon="res://icon.svg"
+<<<<<<<HEADconfig/name="Com Project"
+>>>>>>>1fb63f5cae6eecebb252e0df2e5a76ef42911828config/features=PackedStringArray("4.1", "Mobile")
 
 [editor]
 
