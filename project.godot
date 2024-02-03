@@ -10,20 +10,9 @@ config_version=5
 
 [application]
 
-<<<<<<< HEAD
 config/name="ComProject"
 config/features=PackedStringArray("4.1", "Mobile")
 config/icon="res://icon.svg"
-=======
-config/name="Com Project"
-config/features=PackedStringArray("4.1", "Mobile")
-config/icon="res://icon.svg"
-<<<<<<< HEAD
-=======
-<<<<<<<HEADconfig/name="Com Project"
->>>>>>>1fb63f5cae6eecebb252e0df2e5a76ef42911828config/features=PackedStringArray("4.1", "Mobile")
->>>>>>> 1ab13bcc4c7bfda17c16623181d9a10da395c310
->>>>>>> 732bf42fdab39be9f50ebfae203e47ff396ea8da
 
 [editor]
 
